@@ -1,9 +1,9 @@
-import './App.css'
+import TopPage from './views/TopPage'
 
 function App() {
   return (
-    <div className="text-center">
-      <h1 className="text-2xl">React App!</h1>
+    <div className='App'>
+      <TopPage />
     </div>
   )
 }
